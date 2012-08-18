@@ -1,5 +1,18 @@
 <?php
 
+/**
+ * BraincraftedHumanDateExtension
+ *
+ * @category   Extension
+ * @package    BraincraftedHumanDateBundle
+ * @subpackage DependencyInjection
+ * @author     Florian Eckerstorfer <florian@theroadtojoy.at>
+ * @copyright  2012 Florian Eckerstorfer
+ * @license    http://opensource.org/licenses/MIT The MIT License
+ * @link       https://github.com/braincrafted/human-date-bundle BraincraftedHumanDateBundle
+ */
+
+
 namespace Braincrafted\HumanDateBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
@@ -8,9 +21,15 @@ use Symfony\Component\HttpKernel\DependencyInjection\Extension;
 use Symfony\Component\DependencyInjection\Loader;
 
 /**
- * This is the class that loads and manages your bundle configuration
+ * BraincraftedHumanDateExtension
  *
- * To learn more see {@link http://symfony.com/doc/current/cookbook/bundles/extension.html}
+ * @category   Extension
+ * @package    BraincraftedHumanDateBundle
+ * @subpackage DependencyInjection
+ * @author     Florian Eckerstorfer <florian@theroadtojoy.at>
+ * @copyright  2012 Florian Eckerstorfer
+ * @license    http://opensource.org/licenses/MIT The MIT License
+ * @link       https://github.com/braincrafted/human-date-bundle BraincraftedHumanDateBundle
  */
 class BraincraftedHumanDateExtension extends Extension
 {

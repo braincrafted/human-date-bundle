@@ -26,6 +26,8 @@ use Braincrafted\HumanDateBundle\Transformer\HumanDateTransformer;
  * @copyright  2012 Florian Eckerstorfer
  * @license    http://opensource.org/licenses/MIT The MIT License
  * @link       https://github.com/braincrafted/human-date-bundle BraincraftedHumanDateBundle
+ *
+ * @group unit
  */
 class HumanDateTransformerTest extends \PHPUnit_Framework_TestCase
 {
