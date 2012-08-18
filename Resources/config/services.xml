@@ -1,0 +1,5 @@
+<services>
+    <service id="braincrafted.twig.human_date_extension" class="Braincrafted\HumanDateBundle\Twig\HumanDateExtension">
+        <tag name="twig.extension" />
+    </service>
+</services>
