@@ -1,7 +1,10 @@
 BraincraftedHumanDateBundle
 ===========================
 
+[![Build Status](https://secure.travis-ci.org/braincrafted/human-date-bundle.png?branch=master)](http://travis-ci.org/braincrafted/human-date-bundle)
+
 Made by in Vienna [Florian Eckerstorfer](http://florianeckerstorfer.com).
+
 
 About
 -----
@@ -11,7 +14,22 @@ Transforms the given `\DateTime` object into a human date.
 Installation
 ------------
 
+### Composer
+
 BraincraftedHumanDateBundle is on Packagist: `braincrafted/human-date-bundle`
+
+    {
+        "require": {
+            "braincrafted/human-date-bundle": "dev-master"
+        }
+    }
+
+### Git
+
+Of course, it is also possible to clone the Git repository:
+
+    git clone git://github.com/braincrafted/human-date-bundle.git
+
 
 Usage
 -----
