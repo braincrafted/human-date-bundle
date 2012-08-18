@@ -6,7 +6,7 @@ Made by in Vienna [Florian Eckerstorfer](http://florianeckerstorfer.com).
 About
 -----
 
-Transforms the given `\DateTime` object into a human readable format.
+Transforms the given `\DateTime` object into a human date.
 
 Installation
 ------------
