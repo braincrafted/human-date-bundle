@@ -16,7 +16,7 @@ class HumanDateExtension extends Twig_Extension
         );
     }
 
-    public function humanDate(\DateTime $date)
+    public function humanDateFilter(\DateTime $date)
     {
         $transformer = new HumanDateTransformer();
         return $transformer->transform($date);
