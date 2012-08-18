@@ -1,0 +1,8 @@
+parameters:
+    braincrafted.twig.human_date_extension.class: Braincrafted\HumanDateBundle\Twig\HumanDateExtension
+
+services:
+    braincrafted.twig.human_date_extension:
+        class: %braincrafted.twig.human_date_extension.class%
+        tags:
+            - { name: twig.extension }
