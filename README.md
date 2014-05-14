@@ -1,6 +1,8 @@
 BraincraftedHumanDateBundle
 ===========================
 
+# DEPRECATED IN FAVOR OF [cocur/human-date](https://github.com/cocur/human-date)!
+
 [![Build Status](https://secure.travis-ci.org/braincrafted/human-date-bundle.png?branch=master)](http://travis-ci.org/braincrafted/human-date-bundle)
 
 Made in Vienna by [Florian Eckerstorfer](http://florianeckerstorfer.com).
